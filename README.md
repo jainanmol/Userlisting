@@ -1,5 +1,5 @@
-# Userlisting
+# User Activity Listing
 
-Cd to client
-run : npm install
-run : npm start
+1)Cd to client
+2)run : npm install
+3)run : npm start
